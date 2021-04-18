@@ -1,5 +1,5 @@
 # Tic-Tac-Toe in C++
-An AI playes tic-tac-toe using the minimax algorithm with alpha-beta pruning
+An AI plays tic-tac-toe using the minimax algorithm with alpha-beta pruning.
 
 # Compile
 g++ *.cpp -Wall -o TTT
@@ -19,5 +19,3 @@ mkfifo pipe1 pipe2
 
 # Terminal 2:
 ./TTT verbose > pipe1 < pipe2
-
-
