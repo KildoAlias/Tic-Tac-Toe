@@ -1,6 +1,6 @@
 # Tic-Tac-Toe in C++
 
-An AI plays tic-tac-toe using the minimax algorithm with alpha-beta pruning.
+An AI plays tic-tac-toe using the **minimax** algorithm with **alpha-beta pruning**.
 
 ## Compile
 
